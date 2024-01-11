@@ -1,6 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# IceCube Graph Neural Network
+> Graph Neural Network model created for Kaggle competition [IceCube - Neutrinos in Deep Ice](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)
+> 
+> This project partially based on Graphet model
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,16 +18,16 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
+- The goal of this model is to predict a neutrino particle’s direction, based on data from the "IceCube" detector, which observes the cosmos from deep within the South Pole ice.
+- This project is designed to achieve similar performance to Graphnet using less complicated architecture and to achieve better performance with similar complexity
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
+- Python - version 1.0
+- PyTorch Geometric - version 2.0
 - Tech 3 - version 3.0
 
 
@@ -56,7 +57,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
 
 ## Room for Improvement
@@ -73,7 +74,7 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by work [Graph Neural Networks for Low-Energy Event Classification & Reconstruction in IceCube](https://arxiv.org/abs/2209.03042)
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
