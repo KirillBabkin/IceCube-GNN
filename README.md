@@ -39,7 +39,7 @@ List the ready features here:
 
 
 ## Model Architecture
-![Layers](./Img/Layers.png)
+![Layers](./Img/Layers.PNG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
