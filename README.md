@@ -72,10 +72,8 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by work [Graph Neural Networks for Low-Energy Event Classification & Reconstruction in IceCube](https://arxiv.org/abs/2209.03042)
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on [GraphNet](https://github.com/graphnet-team/graphnet).
 
 
 ## Contact
