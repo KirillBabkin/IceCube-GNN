@@ -26,7 +26,7 @@
 
 
 ## Technologies Used
-- Python - version 1.0
+- Python - version 3.8
 - PyTorch Geometric - version 2.0
 - Tech 3 - version 3.0
 
@@ -61,14 +61,13 @@ Project is: _in progress_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
+- Change head layers to transformer architecture to improve accuracy
 - Improvement to be done 2
 
 To do:
-- Feature to be added 1
+- Rewrite code for better readability
 - Feature to be added 2
 
 
