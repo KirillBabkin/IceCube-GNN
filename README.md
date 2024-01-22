@@ -7,7 +7,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Model Architecture](#model-architecture)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -38,8 +38,8 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+## Model Architecture
+![Layers](./Img/Layers.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
