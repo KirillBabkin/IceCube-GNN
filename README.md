@@ -50,8 +50,7 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Model works with input sensor data in parquet files.
 
 `write-your-code-here`
 
@@ -64,11 +63,11 @@ Project is: _in progress_
 
 Room for improvement:
 - Change head layers to transformer architecture to improve accuracy
-- Improvement to be done 2
+- Further optimize model
 
 To do:
 - Rewrite code for better readability
-- Feature to be added 2
+- Remove all network code from notebook and add more examples
 
 
 ## Acknowledgements
@@ -77,7 +76,7 @@ To do:
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by jhowlett79@gmail.com - feel free to contact me!
 
 
 <!-- Optional -->
